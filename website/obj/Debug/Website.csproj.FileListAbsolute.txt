@@ -1,0 +1,5 @@
+D:\development\JSonPCalling\JSonPCalling\website\bin\website.dll
+D:\development\JSonPCalling\JSonPCalling\website\bin\website.pdb
+D:\development\JSonPCalling\JSonPCalling\website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+D:\development\JSonPCalling\JSonPCalling\website\obj\Debug\website.dll
+D:\development\JSonPCalling\JSonPCalling\website\obj\Debug\website.pdb
