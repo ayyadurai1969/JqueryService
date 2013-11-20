@@ -1,0 +1,29 @@
+
+1. User Management
+ 
+   In the IE Browser export to excel is not working.
+   It is working in chrome and firefox.
+   
+   To sort out this issue we are planning to include server side coding.
+   
+   Input needed
+
+   
+   what are the Fields to be included in the search and sorting options?
+   sorting order
+
+   
+
+2. Notification Service
+
+   
+
+    1. NotificationUpdate service method - functionality
+         
+
+    2. what is the purpose of NotificationAssignments,Events and Events Category Tables? 
+
+    3. CORS application 
+
+       
+                
